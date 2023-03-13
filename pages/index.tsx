@@ -30,7 +30,7 @@ export default function Index() {
       <Container className={styles.section}>
         <div className={styles.heroInfo}>
           <h1 className={styles.heroTitle}>
-            Kickstart your collaborative&nbsp;app
+            Welcome to Fosshost&nbsp;app
           </h1>
           <p className={styles.heroLead}>
             Use the Liveblocks Starter Kit to build your document-based
